@@ -102,7 +102,7 @@
 | Modul 5  | Verkabelungstypen (UTP, STP, Glasfaser) | ✅ Bestanden |
 | Modul 11 | DHCP-Konfiguration                      | ✅ Bestanden |
 | Modul 12 | NAT-Grundlagen                          | ✅ Bestanden |
-| Modul 14 | Routing & Datenverkehr                  | 🔄 In Bearbeitung |
+| Modul 14 | Routing & Datenverkehr                  | ✅ Bestanden |
 
 ---
 
